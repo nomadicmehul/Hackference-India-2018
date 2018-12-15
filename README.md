@@ -27,6 +27,10 @@ Authentication is one of the big parts of every application. Security is always 
 
 * Open-Minded 
 
+### Presentation 
+
+* [SpeakerDeck](https://speakerdeck.com/rowdymehul/hackference-india-2018-modern-identity)
+ 
 ### Community Channels: 
 [![Follow Auth0 at https://twitter.com/auth0](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40auth0)](https://twitter.com/auth0)
 
